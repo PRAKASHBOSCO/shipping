@@ -1,0 +1,19 @@
+﻿1. Extract the downloaded file from CodeCanyon.
+
+
+2. There you will get a zipped folder named ‘updates.zip’. Upload that to the root directory on your server in where your previous version is running. Unzip that updates.zip file by selecting “Extract here”.
+
+
+3. Now reload the home page and click on ‘Update Now’.
+
+
+4. It’s Done!
+
+
+5. The full system has been updated with a single click.
+
+
+6. Let’s Browse The Latest Version.
+
+
+After updating, please CLEAR the browser’s cache or hard reload the page ( for Win Ctrl+F5 or CMD+Shift+R on Macs), or simply try accessing the page with another browser that hasn’t yet cached the website.
